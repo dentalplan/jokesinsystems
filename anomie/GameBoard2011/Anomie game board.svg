@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Anomie game board.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3606"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3606-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3695"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3736"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3821"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3249068"
+     inkscape:cx="240.57795"
+     inkscape:cy="82.699627"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="823"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.16519928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.16519909, 3.16519909;stroke-dashoffset:0"
+       id="rect2816"
+       width="302.15231"
+       height="196.54683"
+       x="88.118454"
+       y="98.431061" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.16519928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.16519909, 3.16519909;stroke-dashoffset:0"
+       id="rect2816-3"
+       width="302.15231"
+       height="196.54683"
+       x="89.535141"
+       y="351.99451" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.16519928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.16519909, 3.16519909;stroke-dashoffset:0"
+       id="rect2816-5"
+       width="302.15231"
+       height="196.54683"
+       x="171.56628"
+       y="-656.42773"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.751292,322.38583 314.224498,0"
+       id="path3631" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium"
+       x="146.55173"
+       y="349.77597"
+       id="text3633"><tspan
+         sodipodi:role="line"
+         id="tspan3635"
+         x="146.55173"
+         y="349.77597" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="143.9436"
+       y="-322.51126"
+       id="text3637"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3639"
+         x="143.9436"
+         y="-322.51126">IN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="396.30585"
+       y="-323.17911"
+       id="text3641"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3643"
+         x="396.30585"
+         y="-323.17911">OUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="248.90778"
+       y="-587.54272"
+       id="text3645"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3647"
+         x="248.90778"
+         y="-587.54272">MAIN</tspan><tspan
+         sodipodi:role="line"
+         x="248.90778"
+         y="-517.54272"
+         id="tspan3649">DECK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="239.65517"
+       y="332.53461"
+       id="text3651"><tspan
+         sodipodi:role="line"
+         id="tspan3653"
+         x="239.65517"
+         y="332.53461" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="128.44827"
+       y="359.25873"
+       id="text3663"><tspan
+         sodipodi:role="line"
+         id="tspan3665"
+         x="128.44827"
+         y="359.25873" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+       x="113.36728"
+       y="-247.60687"
+       id="text3667"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3669"
+         x="113.36728"
+         y="-247.60687"><tspan
+   style="font-size:16px;font-weight:bold"
+   id="tspan3675">Same suit:</tspan> plus 1 point</tspan><tspan
+         sodipodi:role="line"
+         x="113.36728"
+         y="-227.60687"
+         id="tspan3671" /><tspan
+         sodipodi:role="line"
+         x="113.36728"
+         y="-207.60687"
+         id="tspan3673"><tspan
+   style="font-size:16px;font-weight:bold"
+   id="tspan3685">Same rank: </tspan>plus 3 points</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3677"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSerif;font-style:normal;font-weight:normal;font-size:18;-inkscape-font-specification:FreeSerif;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3679"><rect
+           id="rect3681"
+           width="16.379311"
+           height="22.413794"
+           x="192.24138"
+           y="353.22424" /></flowRegion><flowPara
+         id="flowPara3683"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+       x="361.21692"
+       y="-247.4687"
+       id="text3667-8"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3669-7"
+         x="361.21692"
+         y="-247.4687"><tspan
+   style="font-size:16px;font-weight:bold"
+   id="tspan3675-5">Same colour:</tspan> minus 1 point</tspan><tspan
+         sodipodi:role="line"
+         x="361.21692"
+         y="-227.4687"
+         id="tspan3671-1" /><tspan
+         sodipodi:role="line"
+         x="361.21692"
+         y="-207.4687"
+         id="tspan3673-4"><tspan
+   style="font-size:16px;font-weight:bold"
+   id="tspan3685-5">Same rank: <tspan
+   style="font-size:16px;font-weight:normal"
+   id="tspan3724">minus</tspan></tspan> 3 points</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.39248455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.357257,630.36218 609.285483,0"
+       id="path3631-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+       x="679.95728"
+       y="-482.56976"
+       id="text3759"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-482.56976"
+         id="tspan3789"><tspan
+   style="font-size:19px;font-weight:bold;writing-mode:lr-tb"
+   id="tspan3779">Jack: </tspan>Take the top two cards from the</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-458.81976"
+         id="tspan3791">opposite pile and place them on top of </tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-435.06976"
+         id="tspan3879">the Jack</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-411.31976"
+         id="tspan3763" /><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-387.56976"
+         id="tspan3801"><tspan
+   style="font-size:19px;font-weight:bold;writing-mode:lr-tb"
+   id="tspan3781">Queen:</tspan> Make another player pick up 3 </tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-363.81976"
+         id="tspan3803">cards from the opposite pile to which it</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-340.06976"
+         id="tspan3869">has been played</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-316.31976"
+         id="tspan3767" /><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-292.56976"
+         id="tspan3805"><tspan
+   style="font-size:19px;font-weight:bold;writing-mode:lr-tb"
+   id="tspan3783">King:</tspan> Force any player to swap their</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-268.81976"
+         id="tspan3859">objective card for another card. </tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-245.06976"
+         id="tspan3771" /><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-221.31976"
+         id="tspan3807"><tspan
+   style="font-size:19px;font-weight:bold;writing-mode:lr-tb"
+   id="tspan3785">Ace:</tspan> Force another player to discard </tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-197.56976"
+         id="tspan3809">their entire hand, face down, into either </tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-173.81976"
+         id="tspan3853">the IN or OUT pile at your discretion.</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-150.06976"
+         id="tspan3775" /><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-126.31976"
+         id="tspan3777"><tspan
+   style="font-weight:bold"
+   id="tspan3909">J</tspan><tspan
+   style="font-size:19px;font-weight:bold;writing-mode:lr-tb"
+   id="tspan3787">oker:</tspan> A complete free move, dis-</tspan><tspan
+         sodipodi:role="line"
+         x="679.95728"
+         y="-102.56976"
+         id="tspan3811">regarding all the other rules of the game.</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3793"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSerif;font-style:normal;font-weight:normal;font-size:18;-inkscape-font-specification:FreeSerif;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3795"><rect
+           id="rect3797"
+           width="46.478874"
+           height="1871.8309"
+           x="811.26758"
+           y="-1553.2716" /></flowRegion><flowPara
+         id="flowPara3799"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="675.8963"
+       y="-622.21924"
+       id="text3645-4"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="675.8963"
+         y="-622.21924"
+         id="tspan3649-3">Special</tspan><tspan
+         sodipodi:role="line"
+         x="675.8963"
+         y="-552.21924"
+         id="tspan3843">cards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="29.804565"
+       y="-707.1123"
+       id="text3905"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3907"
+         x="29.804565"
+         y="-707.1123">ANOMIE v0.01</tspan></text>
+  </g>
+</svg>
