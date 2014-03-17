@@ -1,0 +1,26 @@
+flamingo
+iguana
+nightingale
+dolphin
+aardvark
+eagle
+kangaroo
+llama
+yak
+zebra
+shark
+cheetah
+jellyfish
+mouse
+whale
+xenops
+porcupine
+quail
+giraffe
+rabbit
+turkey
+umbrella bird
+hippo
+bison
+vulture
+orca
